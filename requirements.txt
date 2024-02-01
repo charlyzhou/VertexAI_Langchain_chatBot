@@ -1,0 +1,6 @@
+langchain_community==0.0.16
+langchain_google_vertexai==0.0.3
+langchain==0.1.4
+chromadb==0.4.22
+gradio==4.16.0
+sentence-transformers==2.3.1
